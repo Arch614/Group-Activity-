@@ -40,9 +40,9 @@
 </head>
 <body>
     <div class="container">
-        <h1>Miguel's Profile</h1>
+        <h1>Magalong's Profile</h1>
         <h2>About Me</h2>
-        <p>Hi! I'm Miguel, an enthusiastic IT student currently studying at Asia Pacific College. I am passionate about technology, software development, and systems administration. My academic journey has equipped me with a solid foundation in both theoretical and practical aspects of IT, and I am eager to apply my skills in real-world scenarios.</p>
+        <p>Hi! I'm Elrom, an enthusiastic IT student currently studying at Asia Pacific College. I am passionate about technology, software development, and systems administration. My academic journey has equipped me with a solid foundation in both theoretical and practical aspects of IT, and I am eager to apply my skills in real-world scenarios.</p>
         <h2>Skills & Interests</h2>
         <ul>
             <li>Programming (Java, Python, C++, etc.)</li>
@@ -57,7 +57,7 @@
         <div class="contact-info">
             <h2>Contact</h2>
             <p>Email: [eomagalong@student.apc.edu.ph]</p>
-            <p>LinkedIn: [ELMagalong]</p>
+            <p>LinkedIn: [ELMAGALONG]</p>
         </div>
     </div>
 </body>
