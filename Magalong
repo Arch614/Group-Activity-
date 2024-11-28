@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume - Your Name</title>
+    <title>Resume - Elrom Lleigh Magalong</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -52,9 +52,9 @@
 
     <div class="container">
         <header>
-            <h1>Your Name</h1>
+            <h1>Elrom Magalong</h1>
             <p>Job Title</p>
-            <p>Location: City, Country | Phone: (123) 456-7890 | Email: yourname@example.com</p>
+            <p>Location: Taguig, Philippines | Phone: (123) 456-7890 | Email: eomagalong@example.com</p>
         </header>
 
         <section class="summary">
@@ -73,7 +73,7 @@
 
         <section class="education">
             <h2>Education</h2>
-            <p><strong>Degree - University Name</strong> (Graduation Year)</p>
+            <p><strong>Degree - Asia Pacific College</strong> (Graduation Year)</p>
             <p>Brief description of your academic background, relevant coursework, and achievements.</p>
         </section>
 
