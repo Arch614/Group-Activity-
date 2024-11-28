@@ -3,62 +3,84 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Magalong's Profile</title>
+    <title>Resume - Your Name</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
             margin: 0;
-            padding: 20px;
+            padding: 0;
+            background-color: #f0f0f0; /* Background color */
         }
         .container {
-            max-width: 800px;
+            width: 70%;
             margin: 0 auto;
-            background-color: #ffffff;
+            background-color: white; /* White background for the resume content */
             padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
         }
         h1 {
-            color: #2c3e50;
+            font-size: 36px;
+            margin: 0;
+            color: #333;
         }
         h2 {
-            color: #34495e;
+            font-size: 24px;
+            color: #444;
+            margin-bottom: 10px;
         }
         p {
-            color: #7f8c8d;
-            line-height: 1.6;
+            font-size: 16px;
+            color: #555;
+            line-height: 1.5;
         }
-        ul {
-            list-style-type: square;
-            padding-left: 20px;
+        section {
+            margin-bottom: 30px;
         }
-        .contact-info {
+        footer {
+            text-align: center;
+            font-size: 14px;
+            color: #777;
             margin-top: 20px;
         }
     </style>
 </head>
 <body>
+
     <div class="container">
-        <h1>Magalong's Profile</h1>
-        <h2>About Me</h2>
-        <p>Hi! I'm Elrom, an enthusiastic IT student currently studying at Asia Pacific College. I am passionate about technology, software development, and systems administration. My academic journey has equipped me with a solid foundation in both theoretical and practical aspects of IT, and I am eager to apply my skills in real-world scenarios.</p>
-        <h2>Skills & Interests</h2>
-        <ul>
-            <li>Programming (Java, Python, C++, etc.)</li>
-            <li>Network Administration & Security</li>
-            <li>Database Management</li>
-            <li>Software Development</li>
-            <li>Problem Solving & Logical Thinking</li>
-            <li>AI and Machine Learning (Beginner Interest)</li>
-        </ul>
-        <h2>Career Goals</h2>
-        <p>I aspire to grow as a professional in the IT industry, with an emphasis on system architecture, cybersecurity, and software development. Ultimately, I aim to contribute to innovative projects that leverage technology to solve real-world problems.</p>
-        <div class="contact-info">
-            <h2>Contact</h2>
-            <p>Email: [eomagalong@student.apc.edu.ph]</p>
-            <p>LinkedIn: [ELMAGALONG]</p>
-        </div>
+        <header>
+            <h1>Your Name</h1>
+            <p>Job Title</p>
+            <p>Location: City, Country | Phone: (123) 456-7890 | Email: yourname@example.com</p>
+        </header>
+
+        <section class="summary">
+            <h2>Summary</h2>
+            <p>A short summary of your background, highlighting your key skills and career goals.</p>
+        </section>
+
+        <section class="work-experience">
+            <h2>Work Experience</h2>
+            <p><strong>Job Title - Company Name</strong> (MM/YYYY - Present)</p>
+            <p>Brief description of your responsibilities and achievements in this role.</p>
+
+            <p><strong>Previous Job Title - Previous Company</strong> (MM/YYYY - MM/YYYY)</p>
+            <p>Brief description of your responsibilities and achievements in this role.</p>
+        </section>
+
+        <section class="education">
+            <h2>Education</h2>
+            <p><strong>Degree - University Name</strong> (Graduation Year)</p>
+            <p>Brief description of your academic background, relevant coursework, and achievements.</p>
+        </section>
+
+        <footer>
+            <p>Thank you for reviewing my resume.</p>
+        </footer>
     </div>
+
 </body>
 </html>
